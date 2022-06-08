@@ -1876,7 +1876,9 @@ h4.modal-title {
 	}
 }
 
-   
+   body{
+    overflow-x: hidden;
+}
     
     
 
